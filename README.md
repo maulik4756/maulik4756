@@ -1,3 +1,4 @@
+![logo](https://github.com/maulik4756/maulik4756/blob/main/github%20banner.png)
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="right" alt="Coder"/>
 <h1 align="center">Hi 👋, I'm Maulik Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
