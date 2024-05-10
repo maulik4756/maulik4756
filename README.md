@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maulik Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/maulik-parmar-611a07214](www.linkedin.com/in/maulik-parmar-611a07214)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/maulik-parmar-611a07214]
 
 - 💬 Ask me about **react js,Next js ,Javascript , HTML,CSS,**
 
