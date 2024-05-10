@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="right" alt="Coder"/>
 <h1 align="center">Hi 👋, I'm Maulik Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,7 +7,7 @@
 - 💬 Ask me about **react js,Next js ,Javascript , HTML,CSS,**
 
 - 📫 How to reach me **maulikparmar475@gmail.com**
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="right" alt="Coder"/>
+
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bNOtfdX1nNkXC7V2hPL_fp7y_7XAApRcpSGnQxPdsNo/edit](https://docs.google.com/document/d/1bNOtfdX1nNkXC7V2hPL_fp7y_7XAApRcpSGnQxPdsNo/edit)
 
 - ⚡ Fun fact **I am funny 😅**
